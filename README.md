@@ -2,10 +2,10 @@
 ----------------------------------------------
 ## Code 폴더
 
-#### __1_NLP_Pipeline&Classification - fetch_20newsgroups in sklearn dataset__
+* __1_NLP_Pipeline&Classification - fetch_20newsgroups in sklearn dataset__
 
-  * one-hot, tf-Idf, Naive Bayes Algorithm, Support Vector Machine Algorithm, HyperParameter Tuning using Grid Search
+  * One-hot, Tf-Idf, Naive Bayes Algorithm, Support Vector Machine Algorithm, HyperParameter Tuning using Grid Search
   
-#### __2_Text_classification_using_LogisticRegression - IMDB_Dataset in Kaggle (English Movie Review dataset)__
+* __2_Text_classification_using_LogisticRegression - IMDB_Dataset in Kaggle (English Movie Review dataset)__
 
-  * Text Pre-processing, one-hot, tf-Idf, Logistic Regression
+  * Text Pre-processing, One-hot, Tf-Idf, Logistic Regression
