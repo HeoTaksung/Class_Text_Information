@@ -3,4 +3,5 @@
 ## Code 폴더
 ----------------------------------------------
 * 1_NLP_Pipeline&Classification - fetch_20newsgroups in sklearn dataset
-  one-hot, tf-Idf, Naive Bayes Algorithm, Support Vector Machine Algorithm, Grid Search
+
+  (one-hot, tf-Idf, Naive Bayes Algorithm, Support Vector Machine Algorithm, Grid Search)
