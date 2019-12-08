@@ -34,4 +34,5 @@
 
   * Konlpy_Okt_pos_tag, pos_tagging level, Integer encoding, zero padding, One-hot, keras Embedding, Multi Layer Perceptron(MLP)
   
+----------------------------------------------
 **Naver sentiment movie corpus Link: [NSMC](https://github.com/e9t/nsmc)**  
