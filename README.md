@@ -35,4 +35,6 @@
   * Konlpy_Okt_pos_tag, pos_tagging level, Integer encoding, zero padding, One-hot, keras Embedding, Multi Layer Perceptron(MLP)
   
 ----------------------------------------------
+
+**IMDB Dataset of Movie Review Link: [IMDB](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**  
 **Naver sentiment movie corpus Link: [NSMC](https://github.com/e9t/nsmc)**  
