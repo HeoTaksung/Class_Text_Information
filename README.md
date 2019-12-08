@@ -25,3 +25,13 @@
 * __6_Korean_pos_Word2Vec - Naver sentiment movie corpus dataset (train data)__
 
   * Konlpy_Okt_pos_tag, pos_tagging level, Skipgram and CBOW using gensim
+  
+* __7_Part_of_Speech_Tagging - book in nltk dataset__
+
+  * Word likelihood probabilities of Hidden Markov Models, nltk_pos_tag
+  
+* __8_DNN_Text_classification - Naver sentiment movie corpus dataset (test data)__
+
+  * Konlpy_Okt_pos_tag, pos_tagging level, Integer encoding, zero padding, One-hot, keras Embedding, Multi Layer Perceptron(MLP)
+  
+**Naver sentiment movie corpus Link: [NSMC](https://github.com/e9t/nsmc)**  
