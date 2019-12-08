@@ -22,7 +22,7 @@
 
   * Without special characters, word level, Skipgram and CBOW using gensim
   
-* __6_Korean_pos_Word2Vec - Naver sentiment movie corpus dataset (train data)__
+* __6_Korean_pos_Word2Vec - Naver Sentiment Movie Corpus dataset (train data)__
 
   * Konlpy_Okt_pos_tag, pos_tagging level, Skipgram and CBOW using gensim
   
@@ -37,4 +37,4 @@
 ----------------------------------------------
 
 **IMDB Dataset of Movie Review Link: [IMDB](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews)**  
-**Naver sentiment movie corpus Link: [NSMC](https://github.com/e9t/nsmc)**  
+**Naver Sentiment Movie Corpus Link: [NSMC](https://github.com/e9t/nsmc)**  
