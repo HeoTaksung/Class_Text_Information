@@ -30,7 +30,7 @@
 
   * Word likelihood probabilities of Hidden Markov Models, nltk_pos_tag
   
-* __8_DNN_Text_classification - Naver sentiment movie corpus dataset (test data)__
+* __8_DNN_Text_classification - Naver Sentiment Movie Corpus dataset (test data)__
 
   * Konlpy_Okt_pos_tag, pos_tagging level, Integer encoding, zero padding, One-hot, keras Embedding, Multi Layer Perceptron(MLP)
   
