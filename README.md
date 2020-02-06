@@ -36,7 +36,7 @@
   
 * __Text_Summarization_Nouns_Counter__
 
-  * news_crawling using beautifulsoup, Stemming, Text Summarization based on Nouns Counter(Paragraph extraction)
+  * News_Crawling using Beautifulsoup, Stemming, Text Summarization based on Nouns Counter(Paragraph extraction)
   
 ----------------------------------------------
 
